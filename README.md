@@ -42,13 +42,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-There are many projects being built by awesome developers everyday, however, this is a project that I had personally envisioned as I had started learning to code. This project projects my skills as a full-stack developer using the latest tools. I was always fascinated by the face recognition software used in camera's and mobile's. This project is a result of that fascination and my coding skills combined to make an app of my own that implements the face recognition to photos.
+There are many projects being built by awesome developers everyday, however, this is a project that I had personally envisioned as I had started learning to code. This project projects my skills as a full-stack developer using the latest tools. I was always fascinated by the face recognition software used in camera's and mobile's. This project is a result of that fascination and my coding skills combined to make an app of my own that implements the face recognition software to photos.
 
 I think this is a cool project, Here's why:
 
 <ul>
-  <li> This project is scalable and very light which adds to its advantage of being awesome.<li>
-  <li> This project uses an API service that is constantly updated and new features can br incorporated easily.</li>
+  <li> This project is scalable and very light which adds to its advantage of being awesome.</li>
+  <li> This project uses an API service that is constantly updated and new features can be incorporated easily.</li>
   <li> This project is made keeping in mind the concept of reusable components, which makes the code reusable in other projects as components.</li>
 </ul>
 ### Built With
